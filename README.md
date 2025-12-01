@@ -1,7 +1,32 @@
 # Atividade-Individual-08-12-2025
 Atividade da UC Desenvolvimento de Aplicativos Móveis 2º Semestre de 2025 no Senai utilizando FLutter Flow e API com Java Spring Boot
 
+---
 
+
+Atividade individual (Continuação)
+
+Telas:
+-> Login
+-> Cadastro
+-> Dados do usuário
+-> Tela inicial (Header/Footer/imagem/texto/icone/botão)
+-> Tela de endereço (logradouro/localidade/cep/número/complemento/bairro/referência/botão para salvar)
+
+- Complete a documentação já iniciada.
+- Pode ser utilizada qualquer API que esteja com deploy no Render;
+- No FlutterFlow siga os passos:
+--> Crie o API Calls para Cadastro do usuário e Cadastro de endereço, teste pela aba Test e tire prints do cadastro funcionando. Deve ter 3 prints: Call Definition / Response & Test / Aba de Test. Documente.
+--> Crie o API Calls para Login e Dados do usuário, teste pela aba Test e tire prints do cadastro funcionando. Deve ter 3 prints para cada: Call Definition / Response & Test / Aba de Test. Documente.
+
+Obs.: Para os que estão na WorldSkills e FTC a data de entrega é dia 08/12.
+
+Entrega:
+- Compartilhar o FlutterFlow com debora.souza@docente.firjan.senai.br
+- Repositório no GitHub com Readme.md preenchido contendo: título, descrição do projeto, descrição das funcionalidades, tecnologia utilizadas, prints das telas do FlutterFlow, link do deploy do swagger utilizado no consumo, nome do desenvolvedor.
+- O Repositório deve estar na organização da UC, compartilhado com debysouza e deve conter dois arquivos: Documentação e Readme.
+
+---
 
 
 O QUE VOCÊ PRECISA FAZER
