@@ -19,6 +19,7 @@ Atividade da UC Desenvolvimento de Aplicativos Móveis 2º Semestre de 2025 no S
 - O Repositório deve estar na organização da UC, compartilhado com debysouza e deve conter dois arquivos: Documentação e Readme.
 
 ---
+## Descrição do Gemini
 
 Parte 1: Deploy da sua API Spring Boot no Render
 O objetivo é ter sua API rodando em uma URL pública (ex: https://minha-api.onrender.com) e conectada a um banco de dados também na nuvem.
