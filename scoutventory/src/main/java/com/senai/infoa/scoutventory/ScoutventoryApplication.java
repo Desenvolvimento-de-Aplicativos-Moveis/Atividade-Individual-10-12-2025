@@ -8,6 +8,8 @@ public class ScoutventoryApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ScoutventoryApplication.class, args);
+
+		sisytem.out.println("Aplicacao Iniciada com Sucesso!");
 	}
 
 }
