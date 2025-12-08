@@ -3,6 +3,12 @@ Atividade da UC Desenvolvimento de Aplicativos Móveis 2º Semestre de 2025 no S
 
 ---
 
+### Sistema
+
+Scoutventory, o sistema de inventário da tropa sênior
+
+---
+
 
 Atividade individual (Continuação)
 
