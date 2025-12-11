@@ -54,6 +54,16 @@ Tela de Inventário (Inventario)
 Tela do produto Saco de Dormir (PSacoDeDormir)
 Tela de cadastro do Endereço (Address)
 
+| Login (`sigin`) | Cadastro (`register`) | DadosDoUsuario (`user`) |
+| :---: | :---: | :---: |
+| <img src="./sigin.png" width="200" /> | <img src="./register.png" width="200" /> | <img src="./user.png" width="200" /> |
+
+| HomePage (`homepage`) | Inventário (`inventory`) | SacoDeDormir (`psacodedormir`) | Endereço (`address`) |
+| :---: | :---: | :---: | :---: |
+| <img src="./homepage.png" width="200" /> | <img src="./inventory.png" width="200" /> | <img src="./psacodedormir.png" width="200" /> | <img src="./address.png" width="200" /> |
+
+---
+
 ---
 
 
